@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Shopiki/app/src/main/res/drawable/ic_baseline_account_circle.xml" value="0.219" />
+        <entry key="..\:/Shopiki/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.219" />
+        <entry key="..\:/Shopiki/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.178" />
+        <entry key="..\:/Shopiki/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.178" />
+        <entry key="..\:/Shopiki/app/src/main/res/font/amethysta.xml" value="0.14814814814814814" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_add_product.xml" value="0.1334853090172239" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_admin_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_login.xml" value="0.25885416666666666" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_main.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_on_boarding.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_registration.xml" value="0.12588652482269502" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_show_all.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_show_all_new.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_show_all_popular.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_show_all_suggest.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/category_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/fragment_home.xml" value="0.2151268115942029" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/fragment_policy.xml" value="0.2151268115942029" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/header.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/layout/sliding_layout.xml" value="0.24320652173913043" />
+        <entry key="..\:/Shopiki/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Shopiki/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable-v24/admin_delete_product_button.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable-v24/admin_order_check_button_style.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable-v24/baseline_contacts_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable-v24/baseline_logout_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable-v24/order_counter_badge_background_style.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable-v24/white_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/button_vien.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/edit_text_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_loginout.xml" value="0.2703125" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/input_product.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/drawable/search_bg.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/font/amethysta.xml" value="0.284375" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/font/arabotofont.xml" value="0.284375" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_add_product.xml" value="0.2" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_admin_login.xml" value="0.264" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_admin_menu.xml" value="0.4" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_detailed.xml" value="0.27454718779790277" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_on_boarding.xml" value="0.2" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_registration.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_show_all.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_show_all_new.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_show_all_popular.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_show_all_suggest.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/category_list.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/content_navigation_drawer.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/fragment_gallery.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/fragment_home.xml" value="0.23055295220243674" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/fragment_policy.xml" value="0.38848920863309355" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/fragment_slideshow.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/frangment_contract.xml" value="0.43724696356275305" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/header.xml" value="0.536" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/my_cart_item.xml" value="0.264" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/new_products.xml" value="0.4" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/popular_items.xml" value="0.6048780487804878" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/show_all_item.xml" value="0.264" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/sliding_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/layout/suggest_items.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/menu/activity_main_drawer.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/menu/admin_menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/menu/main_menu.xml" value="0.4" />
+        <entry key="..\:/Users/chieudepzaj/AndroidStudioProjects/Shopiki/app/src/main/res/menu/navigation_drawer.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/chieudepzaj/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
